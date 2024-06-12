@@ -72,3 +72,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AlineCconceicao/AlineCconceicao/output/snake.svg" alt="Snake animation" />
+
+###
