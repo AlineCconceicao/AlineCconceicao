@@ -42,9 +42,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlineCconceicao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlineCconceicao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineCconceicao&radius=16&theme=react&area=true&order=5" height="302" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlineCconceicao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlineCconceicao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineCconceicao&radius=16&theme=react&area=true&order=5&bg_color=po" height="302" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -63,6 +63,12 @@
   <a href="https://www.instagram.com/madaline__a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/108/108332.gif"  />
 </div>
 
 ###
